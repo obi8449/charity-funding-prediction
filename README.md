@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# Charity Funding Prediction Optimization
 
 **Overview**
 
